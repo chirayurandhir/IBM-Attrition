@@ -1,2 +1,2 @@
-As per the data set of IBM, it can be observed that 16% of the employees are attrited while 84% of the employees are not attrited.
-In this analysis, we are going to analyze several reasons that leads to attrition of employees.
+This project aims to analyze the attrition of employees at IBM using a detailed dataset. The analysis is conducted using Microsoft Excel to uncover insights, trends, and patterns that influence employee attrition.
+
